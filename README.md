@@ -1,3 +1,4 @@
-# 远程仓库1
-## git教程
-## 会计学基础
+# c programming
+## pointer
+## function
+in chinese
